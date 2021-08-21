@@ -1,0 +1,7 @@
+{
+  "name": "cd myApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
